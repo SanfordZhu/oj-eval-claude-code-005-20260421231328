@@ -1,0 +1,10 @@
+# Build artifacts
+conv
+*.o
+*.exe
+
+# Temporary files from main.cpp converter
+temp.rgb
+temp.rgba
+temp.ppm
+temp.pam
